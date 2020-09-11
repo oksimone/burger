@@ -19,7 +19,7 @@
   ## Usage
   Write in the burger name text area any type of burger, then click "add burger". And the burger that you entered in the text field will populuate to the left side of the screen in the section, "Burgers to be devoured". Once you click "DEVOUR Burger", the burger that you've devoured will populate to the right side of the screen in the section, "mhm yeah I know some of these words"
 
-    ![Image of the deployed site](https://github.com/oksimone/burger/blob/master/public/assets/js/screenshot.png)
+    ![ReadMe Gif](https://github.com/oksimone/burger/blob/master/public/assets/screenshot.png)
 
   ## License
 
