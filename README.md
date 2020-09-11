@@ -19,14 +19,14 @@
   ## Usage
   Write in the burger name text area any type of burger, then click "add burger". And the burger that you entered in the text field will populuate to the left side of the screen in the section, "Burgers to be devoured". Once you click "DEVOUR Burger", the burger that you've devoured will populate to the right side of the screen in the section, "mhm yeah I know some of these words"
 
-    ![ReadMe Gif](https://github.com/oksimone/burger/blob/master/public/assets/screenshot.png)
+   ![burger](public/assets/screenshot.png)
 
   ## License
 
-![Github license](https://img.shields.io/badge/license-MIT-blue.svg)
+  ![Github license](https://img.shields.io/badge/license-MIT-blue.svg)
 
   ## Link
-   [Click Here to see the deployed site!](https://peaceful-ocean-64199.herokuapp.com/)
+  [Click Here to see the deployed site!](https://peaceful-ocean-64199.herokuapp.com/)
 
   ## Questions
   If you have any questions, please contact me on [GitHub](http://github.com/oksimone), Or, email me at ksworthy22@gmail.com
